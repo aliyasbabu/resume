@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+.header{
+    background-color:#5e928d;
+    color: rgb(216, 231, 148);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .center{
+    max-width: 600px;
+    margin: auto;
+    font-family: "Arial", Helvetica, sans-serif;
+    padding: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    font-family: 'Noto Sans SC', Helvetica, arial, sans-serif;;
+    width: 100%;
+    background-color: rgb(143, 171, 223);
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  td:nth-child(odd), th:nth-child(odd) {
+    background-color: #7ebeb8;
+  }
+  .mailaliyas{
+    color:rgb(216, 231, 148);
+  }
